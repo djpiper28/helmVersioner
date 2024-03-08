@@ -4,6 +4,12 @@ This program is designed to automatically version a Helm chart based
 on the amount of commits in the current repo and all checked out repos
 in the current directory.
 
+## Installation
+
+```bash
+go install github.com/djpiper28/helmVersioner@latest
+```
+
 ## Usage
 
 ```bash
